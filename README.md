@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://luke-ward.com>luke-ward.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://luke-ward.com">luke-ward.com</a>
 
 - 💬 Ask me about **python, java, javascript, infrastructure as code**
 
