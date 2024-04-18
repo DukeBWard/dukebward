@@ -1,6 +1,19 @@
-<h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">A passionate software developer</h3>
+                                                                                                                   
+                                                                               .---.                                          
+           .        .--.                  .--. ,.--.  __  __   ___             |   |               .           __.....__      
+         .'|        |__|                  |__|//    \|  |/  `.'   `.           |   |             .'|       .-''         '.    
+        <  |        .--.                  .--.\\    ||   .-.  .-.   '          |   |           .'  |      /     .-''"'-.  `.  
+         | |        |  |                  |  | `'-)/ |  |  |  |  |  |          |   |          <    |     /     /________\   \ 
+         | | .'''-. |  |                  |  |   /'  |  |  |  |  |  |          |   |   _    _  |   | ____|                  | 
+         | |/.'''. \|  | ,.--.            |  |       |  |  |  |  |  |          |   |  | '  / | |   | \ .'\    .-------------' 
+         |  /    | ||  |//    \           |  |       |  |  |  |  |  |          |   | .' | .' | |   |/  .  \    '-.____...---. 
+         | |     | ||__|\\     |          |__|       |__|  |__|  |__|          |   | /  | /  | |    /\  \  `.             .'  
+         | |     | |     `'-) /                                                '---'|   `'.  | |   |  \  \   `''-...... -'    
+         | '.    | '.      /.'                                                      '   .'|  '/'    \  \  \                   
+         '---'   '---'                                                               `-'  `--''------'  '---'                 
 
+<h1 align="center">A passionate software developer</h1>
+         
 - 👨‍💻 All of my projects are available at <a href="https://luke-ward.com">luke-ward.com</a>
 
 - 💬 Ask me about **python, java, javascript, infrastructure as code**
