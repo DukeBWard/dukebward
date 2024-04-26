@@ -12,7 +12,7 @@
 
 <h1 align="center">A passionate software developer</h1>
          
-- 👨‍💻 All of my projects are available at <a href="https://luke-ward.com">luke-ward.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://luke-ward.com">**luke-ward.com**</a>
 
 - 💬 Ask me about **python, java, javascript, infrastructure as code**
 
