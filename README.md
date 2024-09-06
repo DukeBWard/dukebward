@@ -14,7 +14,7 @@
          
 - 👨‍💻 All of my projects are available at <a href="https://luke-ward.com">**luke-ward.com**</a>
 
-- 💬 Ask me about **go, python, java, javascript, infrastructure as code**
+- 💬 Ask me about **go, python, java, javascript, go, infrastructure as code**
 
 - 📫 How to reach me **wardlukeb@gmail.com**
 
