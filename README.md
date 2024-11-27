@@ -18,6 +18,11 @@
 
 - 📫 How to reach me **wardlukeb@gmail.com**
 
+<h3 align="left">Building:</h1>
+         
+- <a href="https://www.twineify.com/">Twineify</a>
+- <a href="https://word-builder-eight.vercel.app/">Word Builder</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luke-ward-172075173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luke-ward-172075173/" height="30" width="40" /></a>
