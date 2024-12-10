@@ -18,12 +18,12 @@
 
 - 📫 How to reach me **wardlukeb@gmail.com**
 
-<h3 align="left">Building:</h1>
+<h3 align="left">Privately Building:</h1>
          
-- <a href="https://www.twineify.com/">Twineify</a>
-- <a href="https://word-builder-eight.vercel.app/">Word Builder</a>
-- <a href="https://tax-calc-lilac.vercel.app/">Comprehensive Tax Calculator</a>
-- <a href="https://pr-fun.vercel.app/">PR Fun!</a>
+- <a href="https://www.twineify.com/">Twineify</a> [Docker + Nodejs + NextJS + Pulumi + Supabase]
+- <a href="https://word-builder-eight.vercel.app/">Word Builder</a> [Nextjs]
+- <a href="https://tax-calc-lilac.vercel.app/">Comprehensive Tax Calculator</a> [Nextjs]
+- <a href="https://pr-fun.vercel.app/">PR Fun!</a> [Nextjs]
 
 
 <h3 align="left">Connect with me:</h3>
