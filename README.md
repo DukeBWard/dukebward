@@ -20,7 +20,7 @@
 
 <h3 align="left">Privately Building:</h1>
          
-- <a href="https://www.twineify.com/">Twineify</a>
+- Twineify (Not ready yet!)
 - <a href="https://word-builder-eight.vercel.app/">Word Builder</a>
 - <a href="https://tax-calc-lilac.vercel.app/">Comprehensive Tax Calculator</a>
 - <a href="http://www.plate-math.com/">Plate Math</a>
